@@ -70,11 +70,15 @@ p {
 main section:nth-child(3)img{
   width: 50%;
 }
-
-main a:hover {
-  background-color: rgb(255, 0, 21);
-  align-items: center;
-    justify-content: center;
+input{
+  background-color: black;
+  color: #fff;
+  width: 160px;
+  height: 40px;
+  margin-top: 450px;
+}
+input:hover {
+  background-color: rgb(54, 21, 21);
 }
 footer {
   display: flex;
